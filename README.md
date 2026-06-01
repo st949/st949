@@ -1,14 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Samhitha+Tata+👋;Welcome+to+my+GitHub+Profile!;Data+Analyst+%7C+Builder+%7C+Creator+%7C+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Samhitha+Tata+👋;Welcome+to+my+GitHub+Profile!;Data+Analyst+%7C+Creator+%7C+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋 About Me
-
-I'm a passionate developer who loves building things and solving real-world problems with code. I enjoy learning new technologies, contributing to open-source, and sharing knowledge with the community.
+## 👋 About Me
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning new technologies
@@ -31,7 +29,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -43,15 +41,10 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st949&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=st949&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -61,7 +54,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,8 +76,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-Welcome!-blue?style=flat-square&logo=github)](https://github.com/st949)
-[![](https://visitcount.itsvg.in/api?id=st949&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=st949&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -94,7 +86,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-![Snake animation](https://github.com/st949/st949/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/st949/st949/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -102,7 +94,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ⭐️ From [Samhitha Tata](https://github.com/st949)
 
