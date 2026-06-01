@@ -43,9 +43,9 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -61,7 +61,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
@@ -83,7 +83,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/st949/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=st949&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
