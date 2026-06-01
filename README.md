@@ -43,9 +43,9 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -83,8 +83,8 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fst949.github.io%2Fvisits&style=flat-square)
-[![](https://visitcount.itsvg.in/api?id=st949&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-Welcome!-blue?style=flat-square&logo=github)](https://github.com/st949)
+[![](https://visitcount.itsvg.in/api?id=st949&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
