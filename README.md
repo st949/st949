@@ -61,7 +61,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
 
 </div>
 
