@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+st949+👋;Welcome+to+my+GitHub+Profile!;Developer+%7C+Builder+%7C+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Samhitha+Tata+👋;Welcome+to+my+GitHub+Profile!;Data+Analyst+%7C+Builder+%7C+Creator+%7C+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,15 +43,15 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st949&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=st949&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -61,7 +61,7 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -71,11 +71,9 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/st949)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@st949)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/st949)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@st949)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/st949)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithatata)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SamhithaTata)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samhitha091)
 
 </div>
 
@@ -105,6 +103,6 @@ I'm a passionate developer who loves building things and solving real-world prob
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-⭐️ From [st949](https://github.com/st949)
+⭐️ From [Samhitha Tata](https://github.com/st949)
 
 </div>
