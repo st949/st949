@@ -60,6 +60,16 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=st949&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
