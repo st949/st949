@@ -9,93 +9,93 @@
 ## 👋 About Me
 
 - 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning new technologies
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I love turning ideas into reality!
+- - 🌱 I'm always learning new technologies
+  - - 👯 I'm looking to collaborate on open-source projects
+    - - 💬 Ask me about anything tech-related
+      - - ⚡ Fun fact: I love turning ideas into reality!
+       
+        - ---
 
----
+        ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+        <div align="center">
 
-<div align="center">
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+        ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+        ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+        ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+        ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+        ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+        </div>
 
-</div>
+        ---
 
----
+        ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+        <div align="center">
 
-<div align="center">
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=st949&theme=tokyonight&hide_border=true)
+        ![GitHub Streak](https://streak-stats.demolab.com/?user=st949&theme=tokyonight&hide_border=true)
 
-</div>
+        </div>
 
----
+        ---
 
-## 🏆 GitHub Trophies
+        ## 🏆 GitHub Trophies
 
-<div align="center">
+        <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+        [![trophy](https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+        </div>
 
----
+        ---
 
-## 🌐 Connect With Me
+        ## 🌐 Connect With Me
 
-<div align="center">
+        <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithatata)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SamhithaTata)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samhitha091)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithatata)
+        [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SamhithaTata)
+        [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samhitha091)
 
-</div>
+        </div>
 
----
+        ---
 
-## 👀 Profile Views
+        ## 👀 Profile Views
 
-<div align="center">
+        <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=st949&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+        ![Profile Views](https://komarev.com/ghpvc/?username=st949&label=Profile%20Views&color=1976d2&style=for-the-badge)
 
-</div>
+        </div>
 
----
+        ---
 
-## 🐍 Contribution Graph
+        ## 🐍 Contribution Graph
 
-<div align="center">
+        <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/st949/st949/output/github-contribution-grid-snake.svg)
+        ![Snake animation](https://raw.githubusercontent.com/st949/st949/output/github-contribution-grid-snake.svg)
 
-</div>
+        </div>
 
----
+        ---
 
-<div align="center">
+        <div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐️ From [Samhitha Tata](https://github.com/st949)
-
-</div>
+        > "Code is like humor. When you have to explain it, it's bad." – Cory House
+        > ⭐️ From [Samhitha Tata](https://github.com/st949)
+        >
+        > </div>
