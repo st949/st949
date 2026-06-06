@@ -41,11 +41,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=st949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=st949&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st949&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=st949&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=st949&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -55,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
