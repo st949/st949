@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=st949&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
